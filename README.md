@@ -1,6 +1,6 @@
 # PythonProject
 
-### CS50_Python
+## CS50_Python
 CS50内のPython項目についてのまとめ
 
 ## その他

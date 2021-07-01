@@ -2,6 +2,8 @@
 
 ## CS50_Python
 CS50内のPython項目についてのまとめ
+https://cs50.jp/web/2020/python/notes/
+
 
 ## その他
 Dockerでjupyter環境を整える参考サイト  
